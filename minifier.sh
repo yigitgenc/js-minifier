@@ -1,5 +1,5 @@
 #!/bin/bash
-# minfier.sh (c) 2012, Yigit Genc <yigidix@gmail.com>
+# minfier.sh (c) 2013, Yigit Genc <yigidix@gmail.com>
 
 SRC="./src"
 BUILD="./build"
