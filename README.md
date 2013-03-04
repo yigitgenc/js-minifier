@@ -1,7 +1,7 @@
 js-minifier
 ===========
 
-JavaScript Minifier using YUI-Comressor
+JavaScript Minifier using YUI-Compressor
 
 Usage
 ===========
